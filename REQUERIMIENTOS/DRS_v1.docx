@@ -1,9 +1,1 @@
-RF01: El sistema debe permitir el registro de nuevos usuarios ingresando nombre, correo y contraseña.
 
-RF02: El sistema debe validar que el correo no esté repetido antes de registrarlo.
-
-RF03: El sistema debe permitir el inicio de sesión con correo y contraseña.
-
-RF04: El sistema debe permitir que el usuario modifique su información personal.
-
-RF05: El sistema debe almacenar los datos en una base de datos.
